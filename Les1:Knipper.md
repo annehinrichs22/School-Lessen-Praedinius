@@ -8,7 +8,7 @@ hij dat programma uitvoeren.
 Je eerste programma laat een LED-lampje knipperen. Het .ino bestand dat je hiervoor nodig hebt staat in dezelfde map als dit bestand.
 
 # Aansluiten
-* De spanning die een Arduino gebruikt is niet gevaarlijk, hier hoef je dus niet bang voor te zijn. Je krijgt geen schok als je iets aanraakt. *
+** De spanning die een Arduino gebruikt is niet gevaarlijk, hier hoef je dus niet bang voor te zijn. Je krijgt geen schok als je iets aanraakt. **
 
 Stap 1: Je gaat het lampje aansluiten op de Arduino en om dat te doen gebruik je een breadboard. Om dit goed te kunnen doen is het belangrijk dat je snapt hoe een
 breadboard werkt. Dit kun je op het plaatje hieronder zien.
