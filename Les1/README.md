@@ -1,4 +1,4 @@
-# Knipper
+# Les 1: Knipper
 In deze les ga je leren om een LED-lampje aan te sturen met een Arduino. Een Arduino is een hele kleine computer die je kunt gebruiken
 om elektronica aan te sturen. Je doet dit door in de Arduino IDE (IDE betekent Integrated Development Environment, dat betekent eigenlijk
 gewoon simpele programmeer omgeving) een programma te schrijven. Dat programma upload je dan via je computer naar de Arduino. Als je dat 
