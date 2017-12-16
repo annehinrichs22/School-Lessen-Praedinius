@@ -26,4 +26,4 @@ Open de Arduino IDE en download en open het .ino bestand dat bij deze les hoort.
 Druk bovenaan het venster op de upload knop en wacht tot "upload voltooid" rechts onder verschijnt. Je hebt nu het programma op de Arduino gezet. Omdat de Arduino stroom krijgt via de USB-poort van de computer zal hij het programma direct uitvoeren. Als je het goed hebt gedaan zal de LED gaan knipperen.
 
 #### Stap 6:
-Volg de instructies die als commentaar in het .ino bestand staan. Commentaar kun je herkennen aan de // die voor elke regel staan en de grijze kleur. Commentaar wordt genegeerd door de compiler, het programma dat het bestand vertaalt naar Arduino code. Commentaar dat meerdere regels lang is kun je herkennen aan /* bij het begin en */ aan het eind. 
+Volg de instructies die als commentaar in het .ino bestand staan. Commentaar kun je herkennen aan de // die voor elke regel staan en de grijze kleur. Commentaar wordt niet op de Arduino gezet door het programma. Commentaar dat meerdere regels lang is kun je herkennen aan /* bij het begin en */ aan het eind. 
