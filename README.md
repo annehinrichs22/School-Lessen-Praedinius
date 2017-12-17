@@ -1,6 +1,6 @@
 # School Lessen Praedinius
 * Les 1: Knipper.
-Laat een lamje knipperen en varieer de snelheid.
+Laat een lampje knipperen en varieer de snelheid.
 * Les 2: Sensor en seriële monitor.
 Lees een sensor en stuur dat naar de computer via de seriële monitor.
 * Les 3: Sensor if-statement.
