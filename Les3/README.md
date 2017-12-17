@@ -1,5 +1,5 @@
 # Les 3: Sensor en if-statement.
-In de vorige lessen stuurde de Arduino steeds iets aan of ontving hij iets. Bij bijvoorbeeld een robot is dat natuurlijk niet genoeg. In deze les gaan we daarom een bepaalde waarde kiezen waarbij alsdie bereikt wordt de Arduino een bepaalde actie uitvoert. Dat kun je doen door gebruik te maken van een if-statement. Een if-statement kijkt of een bepaalde stelling waar is en als dat zo is voert hij een bepaalde actie uit.
+In de vorige lessen stuurde de Arduino steeds iets aan of ontving hij iets. Bij bijvoorbeeld een robot is dat natuurlijk niet genoeg. In deze les gaan we daarom een bepaalde waarde kiezen waarbij als die bereikt wordt de Arduino een bepaalde actie uitvoert. Dat kun je doen door gebruik te maken van een if-statement. Een if-statement kijkt of een bepaalde stelling waar is en als dat zo is voert hij een bepaalde actie uit.
 
 Voorbeeld:
 ```
