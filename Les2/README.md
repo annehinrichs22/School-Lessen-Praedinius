@@ -18,7 +18,7 @@ Onderzoek of de weerstand hoger wordt hij meer licht of bij minder licht. Onthou
 Probeer de delay aan te passen.
 
 ### Stap 6:
-Probeer de code ``` Serial.println(sensorValue); ``` te vervangen door ``` Serial.println(analogRead(A0)); ``` Je ziet dat alles gewoon werkt, het enige verschil is dat de variabele sensorValue nu niet meer gebruikt wordt.
+Probeer de code ``` Serial.println(sensorValue); ``` te vervangen door ``` Serial.println(analogRead(A0)); ``` Je ziet dat alles gewoon werkt, het enige verschil is dat de variabele ``` sensorValue ``` nu niet meer gebruikt wordt.
 
 ### Stap 7:
 Vervang nu ``` Serial.println(analogRead(A0)); ``` door ``` Serial.println("De sensor zegt: ", sensorValue); ```. Dit zorgt dat er behalve de waarde van de sensor ook nog "De sensor zegt: " wordt geprint. Probeer de tekst eens aan te passen.
