@@ -15,7 +15,7 @@ Open de Seriële monitor, zorg dat de snelheid 9600 BAUD is. Kijk of je de data 
 Probeer de delay aan te passen.
 
 ### Stap 5:
-Probeer de code ```cpp Serial.println(sensorValue); ``` te vervangen door ```cpp Serial.println(analogRead(A0)); ``` Je ziet dat alles gewoon wwerkt, het enige verschil is dat de variabele sensorValue nu niet meer gebruikt wordt.
+Probeer de code ```cpp hljs Serial.println(sensorValue); ``` te vervangen door ```cpp Serial.println(analogRead(A0)); ``` Je ziet dat alles gewoon wwerkt, het enige verschil is dat de variabele sensorValue nu niet meer gebruikt wordt.
 
 ### Stap 6:
 Vervang nu ```cpp Serial.println(analogRead(A0)); ``` door ```cpp Serial.println("De sensor zegt: ", sensorValue); ```. Dit zorgt dat er behalve de waarde van de sensor ook nog "De sensor zegt: " wordt geprint. Probeer de tekst eens aan te passen.
