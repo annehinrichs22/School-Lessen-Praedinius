@@ -30,7 +30,11 @@ x <= y (x is minder of gelijk aan y)
 x >= y (x is meer of gelijk aan y)
 ```
 ### Stap 1:
-Sluit de componenten zoals hieronder te zien is aan.
+Sluit de componenten aan zoals bij de vorige les.
 
 ### Stap 2:
 Upload het .ino bestand dat bij deze les hoort naar de Arduino en lees het commentaar zodat je een beetje begrijpt wat het programma doet.
+
+### Stap 3:
+Sluit nu ook een lichtje aan zoals in les 1 en zorg dat de Arduino de LED aanzet als de LDR een bepaalde waarde doorgeeft.
+Probeer of je dit zelf kunt. Als het niet lukt kun je het beste eerst kijken of je alles goed aangesloten hebt en daarna of je programma logisch is. Kijk goed naar de vorige programma's en hun commentaar!
