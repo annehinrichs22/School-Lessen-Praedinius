@@ -17,6 +17,7 @@ Het belangrijkste bij het aansluiten op de Arduino is dat je dingen in een kring
 
 #### Stap 2: 
 Steek het lampje in het breadbord en sluit hem aan zoals hieronder te zien is. Het is heel belangrijk dat je de weerstand ook  aansluit. Waarom leer je bij Natuurkunde. (Hint: niet zonder proberen, de stroomsterkte wordt als je pech hebt zo groot dat de LED smelt en verbrandt.)
+Het is belangrijk dat de LED'jes een + en een - kant hebben, sluit op de min kant altijd de weerstand aan en sluit op de weerstand weer de GND van de Arduino aan. Meerdere LED'jes kunnen naar dezelfde GND pin. (Je kunt de + pin van de LED herkennen aan de lengte, hij is de langste. Je kunt natuurlijk ook gewoon kijken wanneer hij het wel en niet doet.) De + kant moet naar een digitale pin, er staat op de Arduino welke dat zijn.
 
 #### Stap 3: 
 Sluit de Arduino via de USB-kabel aan op de computer. **Belangrijk: Als de grote chip op de Arduino erg warm wordt moet je de USB-kabel direct uit de computer halen. Je hebt dan kortsluiting gemaakt, check goed of je alle draadjes juist hebt aangesloten.**
