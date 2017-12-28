@@ -1,4 +1,7 @@
 # School Lessen Praedinius
+
+Open een les door op het mapje te klikken, dan verschijnen vanzelf instructies.
+
 * Les 1: Knipper.
 Laat een lampje knipperen en varieer de snelheid.
 * Les 2: Sensor en seriële monitor.
