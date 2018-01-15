@@ -20,7 +20,7 @@ Makkelijke route: Je moet dus de delay van de LED vervangen door een variabele. 
 ```
 int a = 0;
 delay(a);
-map(a, 0, 1024, 7, 500);
+map(a, 0, 1023, 7, 500);
 ```
 Probeer het nu nog eens!
 
