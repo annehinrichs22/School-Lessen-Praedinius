@@ -12,12 +12,16 @@ __De spanning die een Arduino gebruikt is niet gevaarlijk, hier hoef je dus niet
 
 #### Stap 1:
 Je gaat het lampje aansluiten op de Arduino en om dat te doen gebruik je een breadboard. Om dit goed te kunnen doen is het belangrijk dat je snapt hoe een breadboard werkt. Dit kun je op het plaatje hieronder zien.
-![alt text](https://github.com/annehinrichs22/School-Lessen-Praedinius/blob/master/afbeeldingen/basic_breadboard_layout.png)
+
+![alt text](https://github.com/annehinrichs22/School-Lessen-Praedinius/blob/master/afbeeldingen/breadboard_uitleg.jpg)
+
 Het belangrijkste bij het aansluiten op de Arduino is dat je dingen in een kring aansluit, zodat er stroom kan lopen. Je ziet bij het breadboard dat er twee lange rijen van gaatjes met elkaar verbonden zijn en dat de andere gaatjes steeds per vijf loodrecht op de lange rijen verbonden zijn.
 
 #### Stap 2: 
 Steek het lampje in het breadbord en sluit hem aan zoals hieronder te zien is. Het is heel belangrijk dat je de weerstand ook  aansluit. Waarom leer je bij Natuurkunde. (Hint: niet zonder proberen, de stroomsterkte wordt als je pech hebt zo groot dat de LED smelt en verbrandt.)
 Het is belangrijk dat de LED'jes een + en een - kant hebben, sluit op de min kant altijd de weerstand aan en sluit op de weerstand weer de GND van de Arduino aan. Meerdere LED'jes kunnen naar dezelfde GND pin. (Je kunt de + pin van de LED herkennen aan de lengte, hij is de langste. Je kunt natuurlijk ook gewoon kijken wanneer hij het wel en niet doet.) De + kant moet naar een digitale pin, er staat op de Arduino welke dat zijn.
+
+![alt text](https://github.com/annehinrichs22/School-Lessen-Praedinius/blob/master/afbeeldingen/Les 1.jpg)
 
 #### Stap 3: 
 Sluit de Arduino via de USB-kabel aan op de computer. **Belangrijk: Als de grote chip op de Arduino erg warm wordt moet je de USB-kabel direct uit de computer halen. Je hebt dan kortsluiting gemaakt, check goed of je alle draadjes juist hebt aangesloten.**
