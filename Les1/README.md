@@ -12,7 +12,7 @@ __De spanning die een Arduino gebruikt is niet gevaarlijk, hier hoef je dus niet
 
 #### Stap 1:
 Je gaat het lampje aansluiten op de Arduino en om dat te doen gebruik je een breadboard. Om dit goed te kunnen doen is het belangrijk dat je snapt hoe een breadboard werkt. Dit kun je op het plaatje hieronder zien.
-![alt text](basic_breadboard_layout.png)
+![alt text](master/afbeeldingen/basic_breadboard_layout.png)
 Het belangrijkste bij het aansluiten op de Arduino is dat je dingen in een kring aansluit, zodat er stroom kan lopen. Je ziet bij het breadboard dat er twee lange rijen van gaatjes met elkaar verbonden zijn en dat de andere gaatjes steeds per vijf loodrecht op de lange rijen verbonden zijn.
 
 #### Stap 2: 
