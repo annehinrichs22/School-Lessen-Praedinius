@@ -1,21 +1,16 @@
 # Les 1: Knipper
 In deze les ga je leren om een LED-lampje aan te sturen met een Arduino. Een Arduino is een hele kleine computer die je kunt gebruiken
-om elektronica aan te sturen. Je doet dit door in de Arduino IDE (IDE betekent Integrated Development Environment, dat betekent eigenlijk
-gewoon simpele programmeer omgeving) een programma te schrijven. Dat programma upload je dan via je computer naar de Arduino. Als je dat 
-gedaan hebt staat het programma op de chip van de Arduino. Zodra de Arduino stroom krijgt (bijv. van de USB-kabel of een batterij) gaat 
-hij dat programma uitvoeren.
+om elektronica aan te sturen. Je doet dit door in de Arduino IDE (IDE betekent Integrated Development Environment, dat betekent eigenlijk gewoon simpele programmeer omgeving) een programma te schrijven. Dat programma upload je dan via je computer naar de Arduino. Als je dat gedaan hebt staat het programma op de chip van de Arduino. Zodra de Arduino stroom krijgt (bijv. van de USB-kabel of een batterij) gaat hij dat programma uitvoeren. Het programma blijft ook op de chip staan als de Arduino geen stroom meer krijgt.
 
-Je eerste programma laat een LED-lampje knipperen. Het .ino bestand dat je hiervoor nodig hebt staat in dezelfde map als dit bestand.
+Je eerste programma laat een LED-lampje knipperen. Het .ino bestand dat je hiervoor nodig hebt staat in de map die bij deze les hoort.
 
 ## Aansluiten
 __De spanning die een Arduino gebruikt is niet gevaarlijk, hier hoef je dus niet bang voor te zijn. Je krijgt geen schok als je iets aanraakt.__
 
-#### Stap 1:
-Je gaat het lampje aansluiten op de Arduino en om dat te doen gebruik je een breadboard. Om dit goed te kunnen doen is het belangrijk dat je snapt hoe een breadboard werkt. Dit kun je op het plaatje hieronder zien.
+#### Uitleg:
+Je gaat het lampje aansluiten op de Arduino. Om dat te doen gebruik je een breadboard. Je moet natuurlijk eerst weten wat een breadboard is en hoe hij werkt. Een breadboard is een stuk plastic waar kleine gaatjes in zitten. Die gaatjes zijn verbonden met elkaar volgens een bepaald patroon. In die gaatjes steek je dan bijvoorbeeld draadjes en LED's. Je gebruikt een breadboard zodat je minder draadjes nodig hebt. In het plaatje hieronder zie je een breadboard. Je ziet dat de onderste helft er normaal uitziet. In de bovenste helft zijn er lijntjes getekend om aan te geven welke gaten met elkaar verbonden zijn. Het is steeds een rij van vijf verticaal aan elkaar en de bovenste rij horizontaal aan elkaar. De verticale rij is niet met de onderste helft verbonden.
 
 ![alt text](https://github.com/annehinrichs22/School-Lessen-Praedinius/blob/master/afbeeldingen/breadboard_uitleg.jpg)
-
-Het belangrijkste bij het aansluiten op de Arduino is dat je dingen in een kring aansluit, zodat er stroom kan lopen. Je ziet bij het breadboard dat er twee lange rijen van gaatjes met elkaar verbonden zijn en dat de andere gaatjes steeds per vijf loodrecht op de lange rijen verbonden zijn.
 
 #### Stap 2: 
 Steek het lampje in het breadbord en sluit hem aan zoals hieronder te zien is. Het is heel belangrijk dat je de weerstand ook  aansluit. Waarom leer je bij Natuurkunde. (Hint: niet zonder proberen, de stroomsterkte wordt als je pech hebt zo groot dat de LED smelt en verbrandt.)
@@ -27,7 +22,7 @@ Het is belangrijk dat de LED'jes een + en een - kant hebben, sluit op de min kan
 Sluit de Arduino via de USB-kabel aan op de computer. **Belangrijk: Als de grote chip op de Arduino erg warm wordt moet je de USB-kabel direct uit de computer halen. Je hebt dan kortsluiting gemaakt, check goed of je alle draadjes juist hebt aangesloten.**
 
 #### Stap 4: 
-Open de Arduino IDE en download en open het .ino bestand dat bij deze les hoort. (Dat kun je vinden in deze map.)
+Open de Arduino IDE en download en open het .ino bestand dat bij deze les hoort. (Dat kun je vinden in de map bij deze les.)
 
 #### Stap 5: 
 Druk bovenaan het venster op de upload knop en wacht tot "upload voltooid" rechts onder verschijnt. Je hebt nu het programma op de Arduino gezet. Omdat de Arduino stroom krijgt via de USB-poort van de computer zal hij het programma direct uitvoeren. Als je het goed hebt gedaan zal de LED gaan knipperen.
