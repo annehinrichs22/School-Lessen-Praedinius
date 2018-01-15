@@ -12,23 +12,23 @@ Je gaat het lampje aansluiten op de Arduino. Om dat te doen gebruik je een bread
 
 ![alt text](https://github.com/annehinrichs22/School-Lessen-Praedinius/blob/master/afbeeldingen/breadboard_uitleg.jpg)
 
-#### Stap 2: 
+#### Stap 1: 
 Steek het lampje in het breadbord en sluit hem aan zoals hieronder te zien is. Het is heel belangrijk dat je de weerstand ook  aansluit. Waarom leer je bij Natuurkunde. (Hint: niet zonder proberen, de stroomsterkte wordt als je pech hebt zo groot dat de LED smelt en verbrandt.)
 Het is belangrijk dat de LED'jes een + en een - kant hebben, sluit op de min kant altijd de weerstand aan en sluit op de weerstand weer de GND van de Arduino aan. Meerdere LED'jes kunnen naar dezelfde GND pin. (Je kunt de + pin van de LED herkennen aan de lengte, hij is de langste. Je kunt natuurlijk ook gewoon kijken wanneer hij het wel en niet doet.) De + kant moet naar een digitale pin, er staat op de Arduino welke dat zijn.
 
 ![alt text](https://github.com/annehinrichs22/School-Lessen-Praedinius/blob/master/afbeeldingen/Les1.jpg)
 
-#### Stap 3: 
+#### Stap 2: 
 Sluit de Arduino via de USB-kabel aan op de computer. **Belangrijk: Als de grote chip op de Arduino erg warm wordt moet je de USB-kabel direct uit de computer halen. Je hebt dan kortsluiting gemaakt, check goed of je alle draadjes juist hebt aangesloten.**
 
-#### Stap 4: 
+#### Stap 3: 
 Open de Arduino IDE en download en open het .ino bestand dat bij deze les hoort. (Dat kun je vinden in de map bij deze les.)
 
-#### Stap 5: 
+#### Stap 4: 
 Druk bovenaan het venster op de upload knop en wacht tot "upload voltooid" rechts onder verschijnt. Je hebt nu het programma op de Arduino gezet. Omdat de Arduino stroom krijgt via de USB-poort van de computer zal hij het programma direct uitvoeren. Als je het goed hebt gedaan zal de LED gaan knipperen.
 
-#### Stap 6:
+#### Stap 5:
 Lees de het commentaar in het .ino bestand, hier wordt het programma uitgelegd. Commentaar kun je herkennen aan de // die voor elke regel staan en de grijze kleur. Commentaar wordt niet op de Arduino gezet door het programma. Commentaar dat meerdere regels lang is kun je herkennen aan /* bij het begin en */ aan het eind.
 
-#### Stap 7:
+#### Stap 6:
 Probeer wat dingen te veranderen in het Arduino programma. __(In de Arduino IDE wordt een programma een sketch genoemd.)__ Probeer bijvoorbeeld de tijd dat de Arduino wacht te veranderen. Kijk wat er gebeurt als de tijd heel laag zet. (Bijv. tussen 1 en 20 miliseconden.)
