@@ -1,5 +1,7 @@
 # School Lessen Praedinius
 
+![alt text](https://github.com/annehinrichs22/School-Lessen-Praedinius/blob/master/afbeeldingen/praedinius.JPG)
+
 Open een les door op het mapje te klikken, dan verschijnen vanzelf instructies.
 
 * Les 1: Knipper.
